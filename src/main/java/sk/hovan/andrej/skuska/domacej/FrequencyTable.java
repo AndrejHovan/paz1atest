@@ -2,7 +2,7 @@ package sk.hovan.andrej.skuska.domacej;
 
 
 public class FrequencyTable {
-	
+	//zmena
 
 	String[] slova;
 	int[] vyskyty;
